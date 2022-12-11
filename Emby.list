@@ -1,0 +1,8 @@
+host, media.bddup.com ,direct
+host, cf.emby.ml ,direct
+host, catfishemby.vip ,direct
+host, embyvip.misakaf.org ,direct
+host, ikandy.fun ,direct
+host, edge-node-Us.123emby ,direct
+host, edge-node-de.123emby ,direct
+host, emby.vip ,proxy
