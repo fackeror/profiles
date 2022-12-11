@@ -1,8 +1,8 @@
-DOMAIN, media.bddup.com, direct
-DOMAIN, cf.emby.ml, direct
-DOMAIN, catfishemby.vip, direct
-DOMAIN, embyvip.misakaf.org, direct
-DOMAIN, ikandy.fun, direct
-DOMAIN, edge-node-us.123emby, direct
-DOMAIN, edge-node-de.123emby, direct
-DOMAIN, emby.vip, proxy
+Host, media.bddup.com, direct
+Host, cf.emby.ml, direct
+Host, catfishemby.vip, direct
+Host, embyvip.misakaf.org, direct
+Host, ikandy.fun, direct
+Host, edge-node-us.123emby, direct
+Host, edge-node-de.123emby, direct
+Host, emby.vip, proxy
