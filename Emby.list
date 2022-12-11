@@ -1,8 +1,8 @@
-DOMAIN-SUFFIX, media.bddup.com, direct
-DOMAIN-SUFFIX, cf.emby.ml, direct
-DOMAIN-SUFFIX, catfishemby.vip, direct
-DOMAIN-SUFFIX, embyvip.misakaf.org, direct
-DOMAIN-SUFFIX, ikandy.fun, direct
-DOMAIN-SUFFIX, edge-node-us.123emby, direct
-DOMAIN-SUFFIX, edge-node-de.123emby, direct
-DOMAIN-SUFFIX, emby.vip, proxy
+DOMAIN, media.bddup.com, direct
+DOMAIN, cf.emby.ml, direct
+DOMAIN, catfishemby.vip, direct
+DOMAIN, embyvip.misakaf.org, direct
+DOMAIN, ikandy.fun, direct
+DOMAIN, edge-node-us.123emby, direct
+DOMAIN, edge-node-de.123emby, direct
+DOMAIN, emby.vip, proxy
