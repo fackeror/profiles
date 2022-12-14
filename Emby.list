@@ -6,3 +6,4 @@ host, ikandy.fun ,direct
 host, edge-node-Us.123emby ,direct
 host, edge-node-de.123emby ,direct
 host, emby.vip ,proxy
+host, embytv.cf ,direct
