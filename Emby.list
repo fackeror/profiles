@@ -7,8 +7,6 @@ host, edge-node-Us.123emby ,direct
 host, edge-node-de.123emby ,direct
 host, emby.vip ,proxy
 host, embytv.cf ,direct
-host, pub3.emby.wtf, direct
-host, cf.jmsooo.com, direct
 host, cu.poloemby.xyz, direct
 host, blueseamusics.com, direct
 host, bsem.ddns.me, direct
