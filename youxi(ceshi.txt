@@ -1,5 +1,0 @@
-# > TFT游戏分流｛测试｝
-riotgames.com
-riotcdn.net
-pvp.net
-singular.net
